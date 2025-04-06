@@ -14,8 +14,7 @@ Maybe you should do it to make it work.
 
 chmod +x setup.sh
 Auto-Install Script
-wget -O ddos.sh 'https://raw.githubusercontent.com/Montiego-Py/UDP-FLOODER
-/setup.sh' && chmod +x ddos.sh && ./ddos.sh
+wget -O ddos.sh 'https://raw.githubusercontent.com/Montiego-Py/UDP-FLOODER/setup.sh' && chmod +x ddos.sh && ./ddos.sh
 After running this code and want to open it again just do:
 
 ./ddos.sh
